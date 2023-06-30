@@ -13,7 +13,7 @@ Created a Dashboard for the given dataset in 1 week with a team of two.
 
 📃Dashboard
 ---
-<img width="800" alt="Screenshot 2023-06-30 154805" src="https://github.com/reema08/Excel-project---Call-Center-Performance-Dashboard/assets/109653833/7900934a-f89c-441c-aa1c-0f394eb4ba8c">
+<img width="900" alt="Screenshot 2023-06-30 154805" src="https://github.com/reema08/Excel-project---Call-Center-Performance-Dashboard/assets/109653833/7900934a-f89c-441c-aa1c-0f394eb4ba8c">
 
 
 <image src="https://github.com/reema08/Tableau-Project/assets/109653833/fe4d5e04-8637-4f22-ae92-08978b64d74f" width="80" hight="80" /> Google Drive Link :
